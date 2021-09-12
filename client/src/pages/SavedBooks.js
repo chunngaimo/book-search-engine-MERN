@@ -70,7 +70,7 @@ const SavedBooks = () => {
                                 {book.image ? <Card.Img src={book.image} alt={`The cover for ${book.title}`} variant='top' /> : null}
                                 <Card.Body>
                                     <Card.Title>
-                                        <a href={book.link} target="_blank">
+                                        <a href={book.link} target="_blank" rel="noopener noreferrer">
                                             {book.title}
                                         </a>
                                     </Card.Title>
