@@ -20,7 +20,7 @@ const server = new ApolloServer({
     context: authMiddleware
 });
 
-// ntegrate Apollo server with Express application as middleware
+//integrate Apollo server with Express application as middleware
 server.applyMiddleware({ app });
 
 app.use(express.urlencoded({ extended: false }));
