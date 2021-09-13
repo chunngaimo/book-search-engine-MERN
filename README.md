@@ -17,6 +17,7 @@ A book search engine powered by Google Books API, used for searching new books t
   - [Table of Content](#table-of-content)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Animation/GIF](#animationgif)
   - [Link](#link)
   - [License](#license)
   - [Contributing](#contributing)
@@ -35,10 +36,19 @@ A book search engine powered by Google Books API, used for searching new books t
 
     - npm start
 
+## Animation/GIF
+
+---
+
+![](assets/images/Book%20Search%20Engine.gif)
+
 ## Link
 
 ---
 
+Link to the deployed application: https://book-search-engine-n.herokuapp.com/
+
+Link to the GitHub repository: https://github.com/chunngaimo/book-search-engine-MERN
 
 ## License
 
